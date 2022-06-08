@@ -3,7 +3,7 @@ class Main {
   public static void main(String[] args) {
     
     System.out.println("Subtraction of two numbers");
-    int num1 = 200;
+    int num1 = 2000;
     int num2 = 150;
 
     // add two numbers
